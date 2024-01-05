@@ -90,7 +90,7 @@ const App = () => {
       <div className="container">
         <div className="generator">
           <h2 className="generator__header">
-           Password Generator
+           Password Generator Application
           </h2>
           <div className="generator__password">
             <h3 >{password}</h3>
